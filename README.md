@@ -66,9 +66,12 @@ Distribution Plot: An interactive box plot (powered by plotly) to visualize the 
 <img width="910" height="647" alt="Screenshot 2025-11-22 at 3 11 43 PM" src="https://github.com/user-attachments/assets/2fa317c3-25cd-4f5a-8930-f8cd36151ff6" />
 
 Raw Data Viewer: Displays the first 100 rows of the cleaned dataset.
+<img width="1179" height="729" alt="Screenshot 2025-11-22 at 3 12 51 PM" src="https://github.com/user-attachments/assets/dd3efb30-fc1b-4bca-955c-aec60cc89de7" />
 
-3. Range Trend Analysis
+#### 3. Range Trend Analysis
 Question: How has the average Electric Range trended over the years (2015-2020), and how does this trend differ by Vehicle Brand and Electric Utility service area?
+<img width="1189" height="571" alt="Screenshot 2025-11-22 at 3 25 04 PM" src="https://github.com/user-attachments/assets/28c0183c-c883-4484-8639-2b2e2c3cd5f2" />
+
 
 Filters: Allows filtering by Vehicle Brand and setting a Minimum Average Range (Miles).
 
