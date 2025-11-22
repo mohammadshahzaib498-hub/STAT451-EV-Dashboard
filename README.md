@@ -74,8 +74,13 @@ Question: How has the average Electric Range trended over the years (2015-2020),
 
 
 Filters: Allows filtering by Vehicle Brand and setting a Minimum Average Range (Miles).
+<img width="230" height="198" alt="Screenshot 2025-11-22 at 3 27 20 PM" src="https://github.com/user-attachments/assets/0bcb9540-5a7b-40cf-a24d-293bf470a38b" />
 
-4. County EV Composition
+
+#### 4. County EV Composition
 Question: How is the EV population composed of Battery Electric Vehicles (BEV) versus Plug-in Hybrid Electric Vehicles (PHEV) across the most popular counties?
 
 Filters: Allows selecting the Top N Counties to display and filtering by a specific Vehicle Type (BEV or PHEV).
+
+<img width="1440" height="709" alt="Screenshot 2025-11-22 at 3 15 00 PM" src="https://github.com/user-attachments/assets/39a809fc-a52a-4959-8dea-9005995e31b4" />
+
