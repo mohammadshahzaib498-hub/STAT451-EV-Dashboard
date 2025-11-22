@@ -51,16 +51,19 @@ The dashboard is organized into four main sections accessible via the sidebar me
 Purpose: Provides a brief project description and lists the team members responsible for different sections.
 <img width="911" height="663" alt="Screenshot 2025-11-22 at 3 11 07 PM" src="https://github.com/user-attachments/assets/3a045c62-c0c8-4366-a2e5-a5a1ab64f6e6" />
 
-2. Data Exploration
+#### 2. Data Exploration
 Purpose: Offers tools for a preliminary data quality check and exploration.
 
-Features:
+##### Features:
 
 Missing Value Summary: A table showing NA counts and percentages for each column.
+<img width="579" height="528" alt="Screenshot 2025-11-22 at 3 21 19 PM" src="https://github.com/user-attachments/assets/7a506034-df7e-4278-9439-c5db7093e7dc" />
 
 Descriptive Statistics: Summary statistics (min, max, mean, median, etc.) for all numeric columns.
+<img width="573" height="553" alt="Screenshot 2025-11-22 at 3 21 49 PM" src="https://github.com/user-attachments/assets/587bfe08-990b-4fac-a49c-9f50f3abcde5" />
 
 Distribution Plot: An interactive box plot (powered by plotly) to visualize the distribution and outliers of a selected numeric column.
+<img width="910" height="647" alt="Screenshot 2025-11-22 at 3 11 43 PM" src="https://github.com/user-attachments/assets/2fa317c3-25cd-4f5a-8930-f8cd36151ff6" />
 
 Raw Data Viewer: Displays the first 100 rows of the cleaned dataset.
 
