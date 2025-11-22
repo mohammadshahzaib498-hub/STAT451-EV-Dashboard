@@ -42,14 +42,14 @@ To run the application, simply execute the following code in your **R console** 
 
 ```r
 shiny::runApp()
-R
+```
 
-shiny::runApp()
-📊 Dashboard Sections
+### 4. 📊 Dashboard Sections
 The dashboard is organized into four main sections accessible via the sidebar menu:
 
-1. Overview
+#### 1. Overview
 Purpose: Provides a brief project description and lists the team members responsible for different sections.
+<img width="911" height="663" alt="Screenshot 2025-11-22 at 3 11 07 PM" src="https://github.com/user-attachments/assets/3a045c62-c0c8-4366-a2e5-a5a1ab64f6e6" />
 
 2. Data Exploration
 Purpose: Offers tools for a preliminary data quality check and exploration.
